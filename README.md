@@ -6,7 +6,7 @@ HOW TO USE:
 
 2: secondly give an id to the element on your HTML.then get it by it's elementById on your js file.
 
-3: lastly, everyother thing you need to know has been done for you on my input.js as seen on my repo. also, you can understand how to clear setinterval on the project. do well to take a closer look to know when it was used on the project.
+3: lastly, every other thing you need to know has been done for you on my input.js as seen on my repo. also, you can understand how to clear setinterval on the project. do well to take a closer look to know when it was used on the project.
 
 4:please do reach out anytime if you got any question or issues on my project. Thank y'all for reviewing and using my awesome work with JavaScript.
 
