@@ -1,4 +1,4 @@
-# Using setinterval method to iterate through colours with JavaScript
+# Using set interval method to iterate through colours with JavaScript
 
 HOW TO USE:
 
