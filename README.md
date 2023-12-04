@@ -1,6 +1,5 @@
-# Using setinterval() method  to iterate through colours with JavaScript
- Wonderful project been developed by me to help the community to iterate through colours and display or change the color of an element after 2sec.
- 
+# Using setinterval method to iterate through colours with JavaScript
+
 HOW TO USE:
 
 1: Firstly, create a nice template on your html and input any name you want on your h1 tag.eg CHANGE MY COLOUR WITH JAVASCRIPT.
