@@ -1,5 +1,4 @@
 # Using set interval method to iterate through colours with JavaScript
-
 HOW TO USE:
 
 1: Firstly, create a nice template on your html and input any name you want on your h1 tag.eg CHANGE MY COLOUR WITH JAVASCRIPT.
